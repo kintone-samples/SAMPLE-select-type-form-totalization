@@ -22,7 +22,7 @@ Calculations:
 * Step 1: Clone the repository
 ```
 $ cd your-working-directory
-$ git clone https://github.com/cybozu/option.git
+$ git clone git@github.com:kintone/SAMPLE-select-type-form-totalization.git
 ```
 * Step 2: Build the plug-in package
 Please use [@kintone/plugin-packer](https://www.npmjs.com/package/@kintone/plugin-packer). It requires [Node.js](https://nodejs.org/en/).
